@@ -1,0 +1,9 @@
+ignored = ["github.com/gopherjs/gopherjs", "github.com/gopherjs/gopherjs/js"]
+
+[[constraint]]
+  name = "github.com/oskca/gopherjs-vue"
+  branch = "master"
+
+[[constraint]]
+  branch = "master"
+  name = "honnef.co/go/js/console"
